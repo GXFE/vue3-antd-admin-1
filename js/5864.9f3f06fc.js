@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[5864],{75864:function(e,n,t){t.r(n),t.d(n,{default:function(){return r}});var u=t(66252);const a=(0,u.aZ)({name:"demos-nested-routes-three"});var r=(0,u.aZ)({...a,setup(e){return(e,n)=>((0,u.wg)(),(0,u.iD)("div",null,"路由三"))}})}}]);
